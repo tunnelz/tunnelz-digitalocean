@@ -2,4 +2,4 @@
 Tunnelz for Digital Ocean
 
 ![Tunnelz_Digital_Ocean]
-(tunnelz-digitalocean/Tunnelz-DigitalOcean.png)
+(https://raw.githubusercontent.com/tunnelz/tunnelz-digitalocean/master/Tunnelz-DigitalOcean.png)
